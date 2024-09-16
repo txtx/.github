@@ -15,7 +15,7 @@ ______________________________________________________________________
 
 ## Latest News 🔥
 
-- Explored support for Zero Knowledge Proof based transaction flows with [Sp1 addon](https://github.com/txtx/txtx/pull/140)
+- Experimental support for Zero Knowledge Proof based transaction flows with [Sp1 addon](https://github.com/txtx/txtx/pull/140)
 - Added support for deterministic addresses via Create2 in Evm addon
 - The first runbook executed on Mainnet moved [$2.5M](https://explorer.hiro.so/txid/70f0b5d238fae566756526678939307b18673bd864b6d74eb5f050b3f8226855?chain=mainnet&api=https://api.hiro.so).
 - Added support for distributed multisig ceremonies in Stacks addon.
