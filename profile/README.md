@@ -8,7 +8,7 @@
 
 ## 101 Demos 
 
-<a href="https://youtube.com/">
+<a href="https://www.youtube.com/playlist?list=PL0FMgRjJMRzMcA23x6y_1lkxXUmuqOlKu">
   <picture>
     <source srcset="https://raw.githubusercontent.com/txtx/txtx/main/doc/assets/youtube.png">
     <img alt="Txtx" style="max-width: 100%;">
